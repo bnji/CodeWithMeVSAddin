@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyAddin1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://192.168.1.100/CodeWithMeTemp/api/1</Value>
+    </Setting>
+    <Setting Name="ApiKeyPrivate" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c30007566d744cb8d6b0fd6f675b853475ef1ebc</Value>
+    </Setting>
+    <Setting Name="ApiKeyPublic" Type="System.String" Scope="User">
+      <Value Profile="(Default)">30fdab5276ff9b8e48bdfce19b1b5a04575887be</Value>
+    </Setting>
+    <Setting Name="TokenValue" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutosaveInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="UseAutosave" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
